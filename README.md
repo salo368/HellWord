@@ -15,7 +15,7 @@ The HellWorld project is a mini game developed in Java that features 2D graphics
 
 Here are some visuals that illustrate the game in action:
 
-![HellWorld1](resources/hellworld1.PNG)
+![HellWorld1](resources/hellworld3.PNG)
 
 ![HellWorld2](resources/hellworld2.PNG)
 
