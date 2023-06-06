@@ -25,8 +25,10 @@ Here are some visuals that illustrate the game in action:
 
 1. Clone this repository: `git clone https://github.com/salo368/HellWorld.git`
 2. Open the project in your preferred Java development environment.
-3. Compile and run the program.
-4. Interact with the graphical interface to add nodes and edges, execute traversal algorithms, and find the shortest path.
+3. Run the main class of the game, which contains the `main` method.
+4. A game window will open with the start screen.
+5. Use the keyboard controls to move the main character around the game world, avoiding enemies.
+6. Enjoy the game and have fun!
 
 ---
 
