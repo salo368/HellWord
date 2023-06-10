@@ -1,5 +1,6 @@
 # HellWorld
 Mini game made with a 2D proto-graphic engine in Java
+<a href="https://github.com/salo368/HellWorld/blob/main/README%20_Spa.md">(View spanish version)</a>
 
 The HellWorld project is a mini game developed in Java that features 2D graphics elements. From its inception, it was created completely from scratch, making it a 2D graphic protomotor. This game offers a unique, challenging, and visually exciting playable experience.
 
