@@ -1,6 +1,6 @@
 # HellWorld
 
-Mini juego creado con un motor proto-gráfico en 2D en Java
+Mini juego creado con un proto-motor gráfico en 2D con Java
 
 El proyecto HellWorld es un mini juego desarrollado en Java que presenta elementos gráficos en 2D. Desde su inicio, se creó completamente desde cero, convirtiéndolo en un proto-motor gráfico en 2D. Este juego ofrece una experiencia de juego única, desafiante y visualmente emocionante.
 
