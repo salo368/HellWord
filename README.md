@@ -1,5 +1,5 @@
 # HellWorld
-<a href="https://github.com/salo368/HellWorld/blob/main/README_Spa.md">(View spanish version)</a>
+<a href="https://github.com/salo368/HellWorld/blob/main/README_Spa.md">(Ver version en español)</a>
 
 Mini game made with a 2D proto-graphic engine in Java
 
